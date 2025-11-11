@@ -1,0 +1,9 @@
+# Archivos compilados y de objetos
+*.o
+*.exe
+obj/
+bin/
+
+# Archivos de Code::Blocks
+*.depend
+*.layout
